@@ -1,0 +1,6 @@
+print("Hallar el indice de masa corporal de una persona")
+print("Escribe el peso")
+peso = int(input())
+print("Escribe la estatura")
+estatura = float(input())
+print ("El indice de masa corporal es : " , peso/(estatura*estatura))

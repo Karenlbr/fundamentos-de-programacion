@@ -1,0 +1,6 @@
+print ("Vamos a hallar el valor del iva del computador")
+print ("Dame el valor del computador")
+valor_computador = int(input())
+print ("Dame el valor del porcentaje de iva")
+porcentaje_iva = int(input())
+print ("El valor del computador es: ", valor_computador * porcentaje_iva / 100)

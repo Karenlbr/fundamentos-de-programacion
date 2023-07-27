@@ -1,0 +1,10 @@
+palabra = "Fundamentos"
+print(palabra[-1])
+print(palabra [6])
+print(palabra [2+3])
+print(palabra [0:2])
+print(palabra [4:8])
+print(palabra [:8])
+print(palabra [8:])
+print(palabra [-2:])
+print(palabra [:5] + palabra[5:])
